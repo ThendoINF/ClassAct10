@@ -1,0 +1,1 @@
+studentNr = input("Name?")
